@@ -8,4 +8,4 @@ Join our [slack work space](https://join.slack.com/t/slack-pyo5813/shared_invite
 
 Join our [Whats App Group](https://chat.whatsapp.com/JNylJhAZ2sj0uT7mBqyqBC)
 
-Feel free to visit us at [Bugema University](https://bugemauniv.ac.ug/)
+Feel free to visit us at [Bugema University arua campus](https://bugemauniv.ac.ug/)
