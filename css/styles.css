@@ -137,3 +137,35 @@ a:hover{
     margin: 0px;
     text-decoration: none;
   }
+  .navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+    }
+    
+    nav{
+        flex: 1;
+        text-align: right;
+    }
+    
+    nav ul{
+        display: inline-block;
+        list-style: none;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        padding-right: 20px;
+    }
+    a{
+        text-decoration: none;
+        color: green;
+    }
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
