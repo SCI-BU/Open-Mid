@@ -4,8 +4,8 @@ A repo used for the Mid Semester Assessment.
 A template for your personal profile website.
 
 
-Join our [slack work space](https://join.slack.com/t/slack-pyo5813/shared_invite/zt-yjxuv2u9-nh76BpOrSGEpbPsF8K7_pg) 
+Join our [slack work space](https://join.slack.com/t/opensource2021-2022/shared_invite/zt-1dv970et2-5CQ76WKUXOBsN4HScV1RpA) 
 
-Join our [Whats App Group](https://chat.whatsapp.com/JNylJhAZ2sj0uT7mBqyqBC)
+Join our [Whats App Group](https://chat.whatsapp.com/HNFgwBinygtKOEmQG821IW)
 
 Feel free to visit us at [Bugema University](https://bugemauniv.ac.ug/)
